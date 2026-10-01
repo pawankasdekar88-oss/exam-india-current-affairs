@@ -1,0 +1,7 @@
+com.examgyan.app-pngs-0 /storage/internal_new/project/ExamGyanMobile/app/build/generated/res/pngs/debug
+com.examgyan.app-resValues-1 /storage/internal_new/project/ExamGyanMobile/app/build/generated/res/resValues/debug
+com.examgyan.app-packageDebugResources-2 /storage/internal_new/project/ExamGyanMobile/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.examgyan.app-packageDebugResources-3 /storage/internal_new/project/ExamGyanMobile/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.examgyan.app-debug-4 /storage/internal_new/project/ExamGyanMobile/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.examgyan.app-debug-5 /storage/internal_new/project/ExamGyanMobile/app/src/debug/res
+com.examgyan.app-main-6 /storage/internal_new/project/ExamGyanMobile/app/src/main/res

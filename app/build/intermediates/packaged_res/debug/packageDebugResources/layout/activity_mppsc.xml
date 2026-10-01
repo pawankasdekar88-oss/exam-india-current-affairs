@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F7FB">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MPPSC"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#102B55"
+            android:padding="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Madhya Pradesh Public Service Commission"
+            android:textSize="15sp"
+            android:textColor="#666666"
+            android:padding="8dp"/>
+
+        <Button
+            android:id="@+id/preButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📚  MPPSC Pre"
+            android:textSize="17sp"
+            android:layout_marginTop="16dp"/>
+
+        <Button
+            android:id="@+id/mainsButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📝  MPPSC Mains"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/currentButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📰  Current Affairs"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/mcqButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="❓  MCQ Practice"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/mockButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🎯  Mock Test"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/syllabusButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📖  Syllabus"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/previousButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📄  Previous Year Papers"
+            android:textSize="17sp"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+</ScrollView>

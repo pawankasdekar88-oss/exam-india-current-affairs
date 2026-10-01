@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#08111F"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MPPSC PRE"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PAPER 1 — GENERAL STUDIES"
+            android:textColor="#B8C7D9"
+            android:textSize="18sp"
+            android:paddingBottom="22dp" />
+
+        <Button
+            android:id="@+id/historyButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📖  इतिहास"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/mpHistoryButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🏛️  MP इतिहास, संस्कृति एवं साहित्य"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/indiaGeographyButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🌍  भारत भूगोल"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/mpGeographyButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🗺️  MP भूगोल"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/polityButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="⚖️  संविधान एवं शासन"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/economyButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="💰  अर्थव्यवस्था"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/scienceButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🔬  विज्ञान, पर्यावरण एवं स्वास्थ्य"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/currentButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📰  Current Affairs"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/ictButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="💻  ICT"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/tribalButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🪶  MP जनजातियाँ एवं लोक संस्कृति"
+            android:textSize="17sp"
+            android:textColor="#222222"
+            android:textAllCaps="false"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="20dp" />
+
+    </LinearLayout>
+
+</ScrollView>

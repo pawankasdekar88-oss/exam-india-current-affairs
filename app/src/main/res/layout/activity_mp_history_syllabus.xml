@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#08111F"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🏛️ MP इतिहास, संस्कृति एवं साहित्य"
+            android:textColor="#FFFFFF"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MPPSC PRE — GENERAL STUDIES"
+            android:textColor="#B8C7D9"
+            android:textSize="16sp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. मध्य प्रदेश का इतिहास"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• मध्य प्रदेश की प्रमुख ऐतिहासिक घटनाएँ&#10;• प्रमुख राजवंश एवं शासक&#10;• प्राचीन एवं मध्यकालीन मध्य प्रदेश&#10;• मराठा एवं सिंधिया काल&#10;• स्वतंत्रता आंदोलन में मध्य प्रदेश का योगदान&#10;• मध्य प्रदेश के प्रमुख स्वतंत्रता सेनानी&#10;• स्वतंत्रता के बाद मध्य प्रदेश का गठन एवं पुनर्गठन"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. मध्य प्रदेश की कला एवं संस्कृति"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• प्रमुख कला एवं मूर्तिकला&#10;• स्थापत्य कला&#10;• चित्रकला की प्रमुख शैलियाँ&#10;• धार्मिक एवं सांस्कृतिक परंपराएँ&#10;• प्रमुख सांस्कृतिक केंद्र"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. मध्य प्रदेश की जनजातियाँ एवं बोलियाँ"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• मध्य प्रदेश की प्रमुख जनजातियाँ&#10;• जनजातीय क्षेत्र एवं वितरण&#10;• प्रमुख जनजातीय बोलियाँ&#10;• जनजातीय परंपराएँ एवं जीवन शैली&#10;• जनजातीय कला एवं संस्कृति"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. लोक संस्कृति एवं लोक साहित्य"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• लोक संगीत&#10;• लोक नृत्य&#10;• लोक कला&#10;• लोक साहित्य&#10;• लोक कथाएँ एवं लोक गाथाएँ&#10;• प्रमुख लोक पर्व एवं उत्सव&#10;• पारंपरिक वाद्य यंत्र"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. मध्य प्रदेश का साहित्य"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• प्रमुख साहित्यकार&#10;• प्रमुख कवि एवं लेखक&#10;• प्रमुख साहित्यिक रचनाएँ&#10;• हिंदी एवं क्षेत्रीय साहित्य&#10;• मध्य प्रदेश की साहित्यिक परंपरा"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. धार्मिक एवं पुरातात्विक विरासत"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• प्रमुख धार्मिक स्थल&#10;• प्रमुख पुरातात्विक स्थल&#10;• ऐतिहासिक स्मारक एवं धरोहर&#10;• मध्य प्रदेश के प्रमुख पर्यटन स्थल&#10;• मध्य प्रदेश के विश्व धरोहर स्थल"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. प्रमुख व्यक्तित्व"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• प्रमुख ऐतिहासिक व्यक्तित्व&#10;• प्रमुख साहित्यकार&#10;• प्रमुख कलाकार&#10;• प्रमुख जनजातीय व्यक्तित्व&#10;• मध्य प्रदेश के स्वतंत्रता सेनानी"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="20dp" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.examgyan.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:2:5-66
+11-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:3:5-18:19
+14        android:allowBackup="true"
+14-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:3:77-103
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:label="Exam India"
+17-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:3:50-76
+18        android:theme="@style/AppTheme" >
+18-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:3:18-49
+19        <activity
+19-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:4:9-84
+20            android:name="com.examgyan.app.CurrentAffairsActivity"
+20-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:4:19-57
+21            android:exported="false" />
+21-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:4:58-82
+22        <activity
+22-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:5:9-72
+23            android:name="com.examgyan.app.AIActivity"
+23-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:5:19-45
+24            android:exported="false" />
+24-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:5:46-70
+25        <activity android:name="com.examgyan.app.MCQActivity" />
+25-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:6:9-49
+25-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:6:19-46
+26        <activity android:name="com.examgyan.app.HistoryTopicActivity" />
+26-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:7:9-58
+26-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:7:19-55
+27        <activity android:name="com.examgyan.app.MPHistorySyllabusActivity" />
+27-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:8:9-63
+27-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:8:19-60
+28        <activity android:name="com.examgyan.app.HistorySyllabusActivity" />
+28-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:9:9-61
+28-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:9:19-58
+29        <activity
+29-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:10:9-75
+30            android:name="com.examgyan.app.AdminActivity"
+30-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:10:19-48
+31            android:exported="false" />
+31-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:10:49-73
+32        <activity
+32-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:11:9-78
+33            android:name="com.examgyan.app.MPPSCPreActivity"
+33-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:11:19-51
+34            android:exported="false" />
+34-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:11:52-76
+35        <activity
+35-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:12:9-75
+36            android:name="com.examgyan.app.MPPSCActivity"
+36-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:12:19-48
+37            android:exported="false" />
+37-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:12:49-73
+38        <activity
+38-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:13:9-17:20
+39            android:name="com.examgyan.app.MainActivity"
+39-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:13:19-47
+40            android:exported="true" >
+40-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:13:48-71
+41            <intent-filter>
+41-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:14:13-16:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:15:17-68
+42-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:15:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:15:68-127
+44-->/storage/internal_new/project/ExamGyanMobile/app/src/main/AndroidManifest.xml:15:78-125
+45            </intent-filter>
+46        </activity>
+47    </application>
+48
+49</manifest>

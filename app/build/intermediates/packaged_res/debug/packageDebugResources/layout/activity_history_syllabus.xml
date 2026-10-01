@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#08111F"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📖 भारत का इतिहास"
+            android:textColor="#FFFFFF"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MPPSC PRE — GENERAL STUDIES"
+            android:textColor="#B8C7D9"
+            android:textSize="16sp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. प्राचीन भारतीय ज्ञान परंपरा"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+        <Button
+            android:id="@+id/bharatVarshButton"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📖  भारतवर्ष और भारतीय संस्कृति"
+            android:textSize="17sp"
+            android:textAllCaps="false"
+            android:textColor="#222222"
+            android:backgroundTint="#D9D9D9"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. प्राचीन एवं मध्यकालीन भारत"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• प्राचीन भारत की प्रमुख घटनाएँ&#10;• मध्यकालीन भारत की प्रमुख घटनाएँ&#10;• प्रमुख राजवंश एवं शासक&#10;• प्रशासनिक व्यवस्थाएँ&#10;• सामाजिक व्यवस्थाएँ&#10;• आर्थिक व्यवस्थाएँ&#10;• कला एवं स्थापत्य&#10;• साहित्य एवं संस्कृति"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. भारतीय सांस्कृतिक विरासत"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• भारतीय कला एवं संस्कृति&#10;• स्थापत्य कला&#10;• मूर्तिकला एवं चित्रकला&#10;• भारतीय साहित्य&#10;• प्रमुख त्योहार एवं परंपराएँ&#10;• धार्मिक एवं सांस्कृतिक परंपराएँ"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. सामाजिक एवं धार्मिक सुधार आंदोलन"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• 19वीं एवं 20वीं शताब्दी के सामाजिक सुधार आंदोलन&#10;• धार्मिक सुधार आंदोलन&#10;• प्रमुख सुधारक एवं उनके योगदान&#10;• भारतीय समाज में सुधार एवं परिवर्तन"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. भारतीय स्वतंत्रता संग्राम"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• 1857 का विद्रोह&#10;• भारतीय राष्ट्रीय आंदोलन&#10;• प्रमुख आंदोलन एवं घटनाएँ&#10;• प्रमुख नेता एवं उनका योगदान&#10;• स्वतंत्रता संग्राम के प्रमुख चरण&#10;• स्वतंत्रता प्राप्ति"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. स्वतंत्रता के बाद भारत"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• स्वतंत्रता के बाद भारत का एकीकरण&#10;• देशी रियासतों का विलय&#10;• राज्यों का पुनर्गठन&#10;• स्वतंत्र भारत के प्रारंभिक विकास की प्रमुख घटनाएँ"
+            android:textColor="#D9E2EC"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp"
+            android:paddingBottom="20dp" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.examgyan.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/storage/internal_new/project/ExamGyanMobile/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "45",
+                        "endOffsets": "45"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/storage/internal_new/project/ExamGyanMobile/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "242",
+                        "endOffsets": "242"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "94",
+                        "endColumns": "235",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}
